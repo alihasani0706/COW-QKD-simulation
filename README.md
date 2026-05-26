@@ -18,5 +18,9 @@ The simulation requires the following Python libraries:
    `python main_simulation.py`
 3. The generated plots will be showed.
 
+## Data Availability
+The simulation codes and datasets used in this study are archived on Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20391865.svg)](https://doi.org/10.5281/zenodo.20391865)
+
 ## License
 This project is licensed under the MIT License.
